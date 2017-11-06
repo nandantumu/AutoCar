@@ -1,0 +1,3 @@
+[submodule "emergency_stop"]
+	path = emergency_stop
+	url = https://github.com/nandantumu/emergency_stop
