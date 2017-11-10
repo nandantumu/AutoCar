@@ -4,3 +4,6 @@
 [submodule "src/ac_msgs"]
 	path = src/ac_msgs
 	url = https://github.com/nandantumu/ac_msgs.git
+[submodule "TeensyFirmware"]
+	path = TeensyFirmware
+	url = https://github.com/nandantumu/TeensyFirmware.git
