@@ -1,3 +1,6 @@
 [submodule "src/emergency_stop"]
 	path = src/emergency_stop
 	url = https://github.com/nandantumu/emergency_stop.git
+[submodule "src/ac_msgs"]
+	path = src/ac_msgs
+	url = https://github.com/nandantumu/ac_msgs.git
