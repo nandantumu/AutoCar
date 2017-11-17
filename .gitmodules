@@ -7,3 +7,6 @@
 [submodule "TeensyFirmware"]
 	path = TeensyFirmware
 	url = https://github.com/nandantumu/TeensyFirmware.git
+[submodule "src/keyboard_control"]
+	path = src/keyboard_control
+	url = https://github.com/nandantumu/keyboard_control.git
