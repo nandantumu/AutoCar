@@ -1,2 +1,3 @@
 # AutoCar
-Master repository for autonomous car.
+Master repository for autonomous car code.
+**NOTE: THIS REPOSITORY IS A PUBLIC MIRROR OF UNRELEASED CODE. IT IS NOT FREQUENTLY UPDATED.**
